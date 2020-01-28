@@ -1,0 +1,4 @@
+[style]
+based_on_style: google
+column_limit: 100
+split_before_expression_after_opening_paren: true
